@@ -3,9 +3,10 @@
 <p>versi alpha rev ini masih perlu perbaikan;</p>
 <p>akan terus dikembangkan.</p>
 <br></br>
-dengan adanya game ini diharapkan manusia bisa lebih menghargai habitat asli ikan cupang yang mulai tercemar dengan banyaknya limbah dan sampah plastik.
+<p>dengan adanya game ini diharapkan manusia bisa lebih menghargai habitat asli ikan cupang,</p> 
+<p>yang mulai tercemar dengan banyaknya limbah dan sampah plastik.</p>
 
-<i>hormat;</i>
+<p><i>hormat;</i></p>
 <b>Dhimas Pragata</b>
 <p>Petani Ubi</p>
 
