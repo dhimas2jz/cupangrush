@@ -10,5 +10,5 @@
 <b>Dhimas Pragata</b>
 <p>Petani Ubi</p>
 
-<a href="www.instagram.com/pragatadhimas">petani instagram</a>
-<a href="www.instagram.com/rikurifuki">peternak instagram</a>
+<p><a href="www.instagram.com/pragatadhimas">petani instagram</a></p>
+<p><a href="www.instagram.com/rikurifuki">peternak instagram</a></p>
