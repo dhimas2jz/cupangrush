@@ -1,5 +1,6 @@
 # cupangrush
-<p>game cupang rush, sebuah game 2d yang sedang dikembangkan.</p>
+<p>game cupang rush, sebuah game 2d yang sedang dikembangkan</p>
+<p>!Dan Stuck Ditengah Jalan Karena Kawan-Kawan Yang Tidak Setia Kawan!.</p>
 <p>versi alpha rev ini masih perlu perbaikan;</p>
 <p>akan terus dikembangkan.</p>
 <br></br>
