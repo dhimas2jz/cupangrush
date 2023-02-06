@@ -12,8 +12,8 @@
 <b>Muhammad Rifki</b>
 <b>Tedy Aditia</b>
 <p>Petani Ubi</p>
-<p>Petani Ubi</p>
-<p>Petani Ubi</p>
+<p>Peternak Sapi</p>
+<p>Penjual Padi</p>
 
 <p><a href="www.instagram.com/hekilledhim">petani instagram</a></p>
 <p><a href="www.instagram.com/rikurifuki">peternak instagram</a></p>
