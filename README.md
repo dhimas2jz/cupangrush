@@ -7,8 +7,10 @@
 <p>dengan adanya game ini diharapkan manusia bisa lebih menghargai habitat asli ikan cupang,</p> 
 <p>yang mulai tercemar dengan banyaknya limbah dan sampah plastik.</p>
 
-<p><i>hormat;</i></p>
+<p><i>hormat kami;</i></p>
 <b>Dhimas Pragata</b>
+<b>Muhammad Rifki</b>
+<b>Tedy Aditia</b>
 <p>Petani Ubi</p>
 
 <p><a href="www.instagram.com/hekilledhim">petani instagram</a></p>
